@@ -13,7 +13,7 @@ const montoNetoEl = document.getElementById('montoNeto');
 
 // Constantes de cálculo
 const IVA_RATE = 0.15;
-const RETENCION_FUENTE_RATE = 0.0175;
+const RETENCION_FUENTE_RATE = 0.02;
 const RETENCION_IVA_RATE = 0.30;
 
 // Función para formatear números como moneda
